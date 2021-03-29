@@ -49,6 +49,11 @@ body{
     text-align: center;
   }
 
+  #box2 {
+    display: inline;
+    text-align: center;
+  }
+
   #list {
     color: white;
     font-size: 20px;
